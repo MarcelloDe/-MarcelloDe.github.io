@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { component } from 'react';
 import Sidebar from './components/Sidebar';
 import Landing from './components/Landing';
 import Experience from './components/Experience';
