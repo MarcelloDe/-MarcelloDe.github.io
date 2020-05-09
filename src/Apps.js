@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
-import Sidebar from './Components/Sidebar';
-import Landing from './Components/Landing';
-import Experience from './Components/Experience';
-import Education from './Components/Education';
-import Skills from './Components/Skills';
-import Interests from './Components/Interests';
-import Awards from './Components/Awards';
+import Sidebar from './components/Sidebar';
+import Landing from './components/Landing';
+import Experience from './components/Experience';
+import Education from './components/Education';
+import Skills from './components/Skills';
+import Interests from './components/Interests';
+import Awards from './components/Awards';
 import profileData from './profileData.json';
 
 class App extends Component {
