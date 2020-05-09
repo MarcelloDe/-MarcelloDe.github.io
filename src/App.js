@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
-import Sidebar from './components/sidebar';
-import Landing from './components/sanding';
-import Experience from './components/experience';
-import Education from './components/education';
-import Skills from './components/skills';
-import Interests from './components/interests';
-import Awards from './components/awards';
+import Sidebar from './components/Sidebar';
+import Landing from './components/Sanding';
+import Experience from './components/Experience';
+import Education from './components/Education';
+import Skills from './components/Skills';
+import Interests from './components/Interests';
+import Awards from './components/Awards';
 import profileData from './profileData.json';
 import ReactGA from 'react-ga';
 
