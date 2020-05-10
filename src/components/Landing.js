@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCheckSquare, faCoffee } from '@fortawesome/fontawesome-free-solid';
 import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 
 class Landing extends Component {
