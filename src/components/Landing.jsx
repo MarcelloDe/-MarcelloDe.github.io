@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import { faCoffee } from ‘@fortawesome/free-solid-svg-icons’;
-import { FontAwesomeIcon } from ‘@fortawesome/react-fontawesome’
-import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
+import { faCoffee } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 
 class Landing extends Component {
   constructor(props) {
