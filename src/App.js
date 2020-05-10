@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Sidebar from './components/Sidebar';
-import Landing from './components/Sanding';
+import Landing from './components/Landing';
 import Experience from './components/Experience';
 import Education from './components/Education';
 import Skills from './components/Skills';
