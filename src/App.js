@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { component } from 'react';
 import Sidebar from './components/Sidebar';
 import Landing from './components/Landing';
 import Experience from './components/Experience';
@@ -9,7 +9,7 @@ import Awards from './components/Awards';
 import profileData from './profileData.json';
 import ReactGA from 'react-ga';
 
-class App extends Component {
+class App extends component {
   constructor(props) {
     super(props);
 
