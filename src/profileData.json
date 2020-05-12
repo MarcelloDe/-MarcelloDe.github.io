@@ -11,12 +11,20 @@
 	"experience": [
 		{
 				"position": "COMING SOON",
-				"organization": "",
-				"aboutWork": "",
-				"fromDate": "",
-				"toDate": ""
+				"organization": ".",
+				"aboutWork": ".",
+				"fromDate": ".",
+				"toDate": "."
 		}
 	],
+	"education": [{
+		"university": "COMING SOON",
+		"degree": ".",
+		"gpa": ".",
+		"fromDate": ".",
+		"toDate": "."
+	}
+],
 	"skills": [{
 			"name": "COMING SOON"
 		},
@@ -27,10 +35,11 @@
 	"interests": {
 		"paragraphOne": "COMING SOON"
 	},
-	"awards": {
+	"awards": [{
 			"awardDetail": "COMING SOON."
-		}
-		
-		
-	
+			},
+			{
+				"awardDetail": "Started North India's First Student Design and Developer Conference."
+			}
+		]
 }
