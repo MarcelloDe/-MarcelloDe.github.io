@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"landing": {
 		"firstName": "Marcello",
@@ -39,4 +40,47 @@
 "COMING SOON"
 	}
 	
+=======
+{
+	"landing": {
+		"firstName": "Marcello",
+		"lastName": "De Filippis",
+		"phoneNumber": "+91-0123456789",
+		"bio": "Breaking into the field of Data Science and coding",
+    "email": "de.filippis@yahoo.com",
+    "linkedin": "https://www.linkedin.com/in/marcellodefilippis/",
+		"github": "https://github.com/MarcelloDe"
+	},
+	"experience": [
+		{
+			"COMING SOON"
+
+				"position":,
+				"organization":,
+				"aboutWork": ,
+				"fromDate":,
+				"toDate": ,
+
+		}
+	],
+	"education": [{
+			"university": ,
+			"degree":,
+			"gpa":,
+			"fromDate":,
+			"toDate": 
+		}
+	],
+	"skills": [{
+		"COMING SOON"
+
+			"name": 
+		},
+		
+	],
+	"interests": {
+"COMING SOON"
+	}
+	
+>>>>>>> fdd8e0805d1bd47493dda65a50695f5a4d1cf2ec
 }
