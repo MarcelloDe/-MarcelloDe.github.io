@@ -12,7 +12,7 @@
         
             "position": "Associate Freelance Photographer",
             "organization": "Chasing Moments Photography, Hamilton, ON.",
-            "aboutWork": "providing on-site photoagraphy coverage of special events.Content creation using social media platforms and Adobe products.",
+            "aboutWork": "providing on-site photoagraphy coverage of special events. Content creation using social media platforms and Adobe products.",
             "fromDate": "May 2019",
             "toDate": "Present"
         },
@@ -48,7 +48,7 @@
     "education": [{
         "university": "Sheridan College",
         "degree": "Data Science Certificate",
-        "gpa": "Executed the analytics process of data cleaning, processing, predicting, and applying business intelligence practices of visualization and report writing. Applied knowledge of database management, as well as languages Python, SQL, and statistical analysis program ‘r’",
+        "gpa": "Executed the analytics process of data cleaning, processing, predicting, and applying business intelligence practices of visualization and report writing. Applied knowledge of database management, machine learning, as well as languages Python, SQL, and statistical analysis program ‘r’",
         "fromDate": "2018",
         "toDate": "2020"
     },
@@ -96,7 +96,7 @@
         
     ],
     "interests": {
-        "paragraphOne": "I am currently learning how to use GIS (Geographic Information Syste,). GIS is exciting becauseit allows for Python compatability allowing map plotting using packages such as folium and cholera. More exciting is that i'd like to learn how toplug in the geographic metadata from photographs to match my photos up with their geographic locations that they were taken. Eventually, I'd like to create a website portfolio of photographs that are linked to the correspinding locations on a map in which the photos were taken.",
+        "paragraphOne": "I am currently learning how to use GIS (Geographic Information System). GIS is exciting because it allows for Python compatability allowing map plotting using packages such as folium and cholera. More exciting is that I'd like to learn how to plug in the geographic metadata from my photographs to match my photos up with their geographic locations from which they were taken. Eventually, I'd like to create a website portfolio of photographs that are linked to the correspinding locations on a map in which the photos were taken.",
         "paragraphTwo": "Running or Biking while listening to newly downloaded music albums or mixes. There is no better way to discover new music, or listen to the latest albums."
     }
 
