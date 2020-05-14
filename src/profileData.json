@@ -1,45 +1,103 @@
 {
-	"landing": {
-		"firstName": "Marcello",
-		"lastName": "De Filippis",
-		"phoneNumber": "416-988-3973",
-		"bio": "Breaking into the field of Data Science and coding",
-    "email": "de.filippis@yahoo.com.com",
-    "linkedin": "https://www.linkedin.com/in/marcellodefilippis/",
-		"github": "https://github.com/MarcelloDe"
-	},
-	"experience": [
-		{
-				"position": "COMING SOON",
-				"organization": ".",
-				"aboutWork": ".",
-				"fromDate": ".",
-				"toDate": "."
-		}
-	],
-	"education": [{
-		"university": "COMING SOON",
-		"degree": ".",
-		"gpa": ".",
-		"fromDate": ".",
-		"toDate": "."
-	}
+    "landing": {
+        "firstName": "Marcello   ",
+        "lastName": "De Filippis",
+        "phoneNumber": "(416)-988-3973",
+        "bio": "Breaking into the field of Data Science and coding",
+        "email": "de.filippis@yahoo.com",
+        "linkedin": "https://www.linkedin.com/in/marcellodefilippis/",
+        "github": "https://github.com/MarcelloDe"
+    },
+    "experience": [{
+        
+            "position": "Associate Freelance Photographer",
+            "organization": "Chasing Moments Photography, Hamilton, ON.",
+            "aboutWork": "providing on-site photoagraphy coverage of special events.Content creation using social media platforms and Adobe products",
+            "fromDate": "May 2019",
+            "toDate": "Present"
+        },
+        {
+            "position": "Inventory Clerk (contract)",
+            "organization": "Peel Regional Police, Brampton, ON",
+            "aboutWork": "Inventory management and verification of accuracy of goods received",
+            "fromDate": "June 2017",
+            "toDate": "April 2018"
+        },
+        {
+            "position": "Customer Service Representative",
+            "organization": "The Bank of Nova Scotia, Milton, ON.",
+            "aboutWork": "test",
+            "fromDate": "June 2017",
+            "toDate": "April 2018"
+        },
+        {
+            "position": "Information Clerk",
+            "organization": "Peel Regional Police, Brampton, ON",
+            "aboutWork": "testing",
+            "fromDate": "June 2016",
+            "toDate": "September 2016"
+        },
+        {
+            "position": "Sale Representative",
+            "organization": "LCBO, Mississauga, ON.",
+            "aboutWork": "testing",
+            "fromDate": "2012",
+            "toDate": "2015"
+        }
+    ],
+    "education": [{
+        "university": "Sheridan College",
+        "degree": "Data Science Certificate",
+        "gpa": ".",
+        "fromDate": "2018",
+        "toDate": "2020"
+    },
+    {
+        "university": "IBM/Coursera Online",
+        "degree": "IBM Data Science Professional Certificate",
+        "gpa": ".",
+        "fromDate": "2020",
+        "toDate": "2020"
+    },
+    {
+        "university": "York University",
+        "degree": "Human Rights and Equity Studies",
+        "gpa": ".",
+        "fromDate": "2014",
+        "toDate": "2017"
+    },
+    {
+        "university": "York University",
+        "degree": "Human Resources Management Certificate",
+        "gpa": ".",
+        "fromDate": "2014",
+        "toDate": "2017"
+    }
+
 ],
-	"skills": [{
-			"name": "COMING SOON"
-		},
-		{
-			"name": "COMING SOON"
-		}
-	],
-	"interests": {
-		"paragraphOne": "COMING SOON"
-	},
-	"awards": [{
-			"awardDetail": "COMING SOON."
-			},
-			{
-				"awardDetail": "."
-			}
-		]
+    "skills": [{
+            "name": "Over 5 years of administrative work "
+        },
+        {
+            "name": "Database Management using SQL"
+        },
+        {
+            "name": "Python"
+        },
+        {
+            "name": "HTML, CSS, Javascript"
+        },
+        {
+            "name": "statistical language 'r'"
+        },
+        {
+            "name": "data cleaning, processing, predicting, and applying business intelligence"
+        }
+        
+    ],
+    "interests": {
+        "paragraphOne": "I am currently learning how to use GIS (Geographic Information Syste,). GIS is exciting becauseit allows for Python compatability allowing map plotting using packages such as folium. More exciting is that i'd like to learn how toplug in the geographic metadata from photographs to match my photos up with their geographic locations that they were taken. Eventually, I'd like to create a website portfolio of photographs that are linked to the correspinding locations on a map in which the photos were taken.",
+        "paragraphTwo": "Running or Biking while listening to newly downloaded music albums or mixes. THere is no better way to discover new music, or listne to the latest albums."
+    }
+
 }
