@@ -48,28 +48,28 @@
     "education": [{
         "university": "Sheridan College",
         "degree": "Data Science Certificate",
-        "gpa": ".",
+        "gpa": "Learmed amd Executed the analytics process of data cleaning, processing, predicting, and applying business intelligence practices of visualization and report writing. Applied knowledge of database management, as well as languages Python, SQL, and statistical analysis program ‘r’",
         "fromDate": "2018",
         "toDate": "2020"
     },
     {
         "university": "IBM/Coursera Online",
         "degree": "IBM Data Science Professional Certificate",
-        "gpa": ".",
+        "gpa": "Capstone project included the analysis of my neghbourhood by postal code using Geo-Json data from the Yelp API",
         "fromDate": "2020",
         "toDate": "2020"
     },
     {
         "university": "York University",
         "degree": "Human Rights and Equity Studies",
-        "gpa": ".",
+        "gpa": "Bachelor’s Degree with Honours whereby I’ve studied and applied: public policy, Charter of Rights and Freedoms, Criminal Code of Canada, as well as the ability to interpret case law and apply the rule of precedence.",
         "fromDate": "2014",
         "toDate": "2017"
     },
     {
         "university": "York University",
         "degree": "Human Resources Management Certificate",
-        "gpa": ".",
+        "gpa": "Studied and applied the principles of accounting, occupational health and safety management systems, the process of recruitment, labour relations, performance appraisals, human resources planning, and business administration.",
         "fromDate": "2014",
         "toDate": "2017"
     }
@@ -96,7 +96,7 @@
         
     ],
     "interests": {
-        "paragraphOne": "I am currently learning how to use GIS (Geographic Information Syste,). GIS is exciting becauseit allows for Python compatability allowing map plotting using packages such as folium. More exciting is that i'd like to learn how toplug in the geographic metadata from photographs to match my photos up with their geographic locations that they were taken. Eventually, I'd like to create a website portfolio of photographs that are linked to the correspinding locations on a map in which the photos were taken.",
+        "paragraphOne": "I am currently learning how to use GIS (Geographic Information Syste,). GIS is exciting becauseit allows for Python compatability allowing map plotting using packages such as folium and cholera. More exciting is that i'd like to learn how toplug in the geographic metadata from photographs to match my photos up with their geographic locations that they were taken. Eventually, I'd like to create a website portfolio of photographs that are linked to the correspinding locations on a map in which the photos were taken.",
         "paragraphTwo": "Running or Biking while listening to newly downloaded music albums or mixes. THere is no better way to discover new music, or listne to the latest albums."
     }
 
