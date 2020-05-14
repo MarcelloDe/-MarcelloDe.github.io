@@ -5,7 +5,6 @@ import Experience from './components/Experience';
 import Education from './components/Education';
 import Skills from './components/Skills';
 import Interests from './components/Interests';
-import Awards from './components/Awards';
 import profileData from './profileData.json';
 import ReactGA from 'react-ga';
 
@@ -19,7 +18,6 @@ class App extends Component {
       education : profileData.education,
       skills : profileData.skills,
       interests : profileData.interests,
-      awards : profileData.awards
     };
 
     ReactGA.initialize('UA-158818625-1');
@@ -40,7 +38,6 @@ class App extends Component {
           <hr className="m-0" />
           <Interests interests={this.state.interests} />
           <hr className="m-0" />
-          <Awards awards={this.state.awards} />
         </div>
       </div>
     );
