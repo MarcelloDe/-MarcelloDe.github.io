@@ -97,7 +97,7 @@
     ],
     "interests": {
         "paragraphOne": "I am currently learning how to use GIS (Geographic Information Syste,). GIS is exciting becauseit allows for Python compatability allowing map plotting using packages such as folium and cholera. More exciting is that i'd like to learn how toplug in the geographic metadata from photographs to match my photos up with their geographic locations that they were taken. Eventually, I'd like to create a website portfolio of photographs that are linked to the correspinding locations on a map in which the photos were taken.",
-        "paragraphTwo": "Running or Biking while listening to newly downloaded music albums or mixes. THere is no better way to discover new music, or listne to the latest albums."
+        "paragraphTwo": "Running or Biking while listening to newly downloaded music albums or mixes. There is no better way to discover new music, or listen to the latest albums."
     }
 
 }
