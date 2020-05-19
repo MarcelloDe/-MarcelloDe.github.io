@@ -4,7 +4,7 @@
         "lastName": "De Filippis",
         "phoneNumber": "(416)-988-3973",
         "bio": "Breaking into the field of Data Science and coding",
-        "email": "de.filippis@yahoo.com",
+        "email": "defilipm@mcmaster.ca",
         "linkedin": "https://www.linkedin.com/in/marcellodefilippis/",
         "github": "https://github.com/MarcelloDe"
     },
@@ -12,14 +12,14 @@
         
             "position": "Associate Freelance Photographer",
             "organization": "Chasing Moments Photography, Hamilton, ON.",
-            "aboutWork": "providing on-site photoagraphy coverage of special events. Content creation using social media platforms and Adobe products.",
+            "aboutWork": "providing on-site photography coverage of special events. Content creation using social media platforms and Adobe products.",
             "fromDate": "May 2019",
             "toDate": "Present"
         },
         {
             "position": "Inventory Clerk (contract)",
             "organization": "Peel Regional Police, Brampton, ON",
-            "aboutWork": "Responsible for performing a variety of data entry, clerical and administrative functions for for maintanence and management of inventory",
+            "aboutWork": "Responsible for performing a variety of data entry, clerical and administrative functions for maintanence and management of inventory",
             "fromDate": "June 2017",
             "toDate": "April 2018"
         },
@@ -40,7 +40,7 @@
         {
             "position": "Sale Representative",
             "organization": "LCBO, Mississauga, ON.",
-            "aboutWork": "Assisted in shipping and receiving, ordering, and stocking functions with the use of inventory management-based technology. Also, Provided  customer service by advising potential clients on which wine to buy based on varietal, price, pairing, and geographic origin. ",
+            "aboutWork": "Assisted in shipping and receiving, ordering, and stocking functions with the use of inventory management-based technology. Also, provided  customer service by advising potential clients on which wine to buy based on varietal, price, pairing, and geographic origin. ",
             "fromDate": "2012",
             "toDate": "2015"
         }
@@ -48,7 +48,7 @@
     "education": [{
         "university": "Sheridan College",
         "degree": "Data Science Certificate",
-        "gpa": "Executed the analytics process of data cleaning, processing, predicting, and applying business intelligence practices of visualization and report writing. Applied knowledge of database management, machine learning, as well as languages Python, SQL, and statistical analysis program ‘r’",
+        "gpa": "Executed the analytics process of data cleaning, processing, predicting, and applying business intelligence practices of visualization and report writing. Applied knowledge of predictive analytics, database management, machine learning, as well as languages Python, SQL, and ‘r’",
         "fromDate": "2018",
         "toDate": "2020"
     },
@@ -88,7 +88,7 @@
             "name": "HTML, CSS, Javascript"
         },
         {
-            "name": "statistical language 'r'"
+            "name": "r"
         },
         {
             "name": "data cleaning, processing, predicting, and applying business intelligence"
@@ -97,7 +97,7 @@
     ],
     "interests": {
         "paragraphOne": "I am currently learning how to use GIS (Geographic Information System). GIS is exciting because it allows for Python compatability allowing map plotting using packages such as folium and cholera. More exciting is that I'd like to learn how to plug in the geographic metadata from my photographs to match my photos up with their geographic locations from which they were taken. Eventually, I'd like to create a website portfolio of photographs that are linked to the correspinding locations on a map in which the photos were taken.",
-        "paragraphTwo": "Running or Biking while listening to newly downloaded music albums or mixes. There is no better way to discover new music, or listen to the latest albums."
+        "paragraphTwo": "Running or Biking while listening to newly downloaded music albums or mixes. "
     }
 
 }
