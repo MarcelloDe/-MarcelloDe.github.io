@@ -3,7 +3,7 @@
         "firstName": "Marcello   ",
         "lastName": "De Filippis",
         "phoneNumber": "(416)-988-3973",
-        "bio": "Breaking into the field of Data Science and coding",
+        "bio": "Breaking into the field of Data Science, Analytics, Web Development, and Coding. Living In Hamilton, Ontario.",
         "email": "defilipm@mcmaster.ca",
         "linkedin": "https://www.linkedin.com/in/marcellodefilippis/",
         "github": "https://github.com/MarcelloDe"
@@ -76,7 +76,7 @@
 
 ],
     "skills": [{
-            "name": "Over 5 years of administrative work "
+            "name": "Over 5 years of administrative experience"
         },
         {
             "name": "Database Management using SQL"
@@ -92,12 +92,15 @@
         },
         {
             "name": "data cleaning, processing, predicting, and applying business intelligence"
+        },
+        {
+            "name": "Tableau and Power B.I"
         }
         
     ],
     "interests": {
         "paragraphOne": "I am currently learning how to use GIS (Geographic Information System). GIS is exciting because it allows for Python compatability allowing map plotting using packages such as folium and cholera. More exciting is that I'd like to learn how to plug in the geographic metadata from my photographs to match my photos up with their geographic locations from which they were taken. Eventually, I'd like to create a website portfolio of photographs that are linked to the correspinding locations on a map in which the photos were taken.",
-        "paragraphTwo": "Personal projects page and blog COMING SOON!."
+        "paragraphTwo": "Personal projects page and blog COMING SOON!"
     }
 
 }
