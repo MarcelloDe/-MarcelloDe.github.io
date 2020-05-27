@@ -79,6 +79,9 @@
             "name": "Over 5 years of administrative experience"
         },
         {
+            "name": "r"
+        },
+        {
             "name": "Database Management using SQL"
         },
         {
@@ -88,13 +91,13 @@
             "name": "HTML, CSS, Javascript"
         },
         {
-            "name": "r"
-        },
-        {
-            "name": "data cleaning, processing, predicting, and applying business intelligence"
+            "name": "IBM Watson"
         },
         {
             "name": "Tableau and Power B.I"
+        },
+        {
+            "name": "Scrum Fundamentals Certified"
         }
         
     ],
