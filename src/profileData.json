@@ -20,8 +20,8 @@
             "position": "Inventory Clerk (contract)",
             "organization": "Peel Regional Police, Brampton, ON.",
             "aboutWork": "Responsible for performing a variety of data entry, clerical and administrative functions for maintanence and management of inventory",
-            "fromDate": "June 2017",
-            "toDate": "April 2018"
+            "fromDate": "May 2018",
+            "toDate": "August 2018"
         },
         {
             "position": "Customer Service Representative",
@@ -48,14 +48,14 @@
     "education": [{
         "university": "Sheridan College",
         "degree": "Data Science Certificate",
-        "gpa": "Executed the analytics process of data cleaning, processing, predicting, and applying business intelligence practices of visualization and report writing. Applied knowledge of predictive analytics, database management, machine learning, as well as languages Python, SQL, and ‘r’",
+        "gpa": "Executed the analytics process of data cleaning, processing, predicting, and applying business intelligence practices of visualization and report writing. Applied knowledge of predictive analytics, database management, machine learning, and advanced statistics",
         "fromDate": "2018",
         "toDate": "2020"
     },
     {
         "university": "IBM/Coursera Online",
         "degree": "IBM Data Science Professional Certificate",
-        "gpa": " Certification included completion of nine Courses such as: python for Data Science and AI, Machine Learning, Databases and SQL.",
+        "gpa": " Certification included completion of nine Courses such as: python for Data Science and AI, Machine Learning, Databases and SQL, as well as a final capstone project",
         "fromDate": "2020",
         "toDate": "2020"
     },
@@ -68,7 +68,7 @@
     },
     {
         "university": "York University",
-        "degree": "Human Resources Management Certificate",
+        "degree": "Human Resources Management Professional Certificate",
         "gpa": "Studied and applied the principles of accounting, occupational health and safety management systems, the process of recruitment, labour relations, performance appraisals, human resources planning, and business administration.",
         "fromDate": "2014",
         "toDate": "2017"
