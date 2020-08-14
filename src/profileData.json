@@ -10,7 +10,14 @@
     },
     "experience": [{
         
-            "position": "Associate Freelance Photographer",
+        "position": "Administrative Assistant",
+        "organization": "The Career Foundation, Hamilton, ON.",
+        "aboutWork": "A workforce planning initiative funded by Skills Advance Ontario (SAO) pilot project called 'The Cannabis Production Worker Training & Recruitment Program'.",
+        "fromDate": "July 2020",
+        "toDate": "September 2020"
+    },
+    {    
+        "position": "Associate Freelance Photographer",
             "organization": "Chasing Moments Photography, Hamilton, ON.",
             "aboutWork": "providing on-site photography coverage of special events. Content creation using social media platforms and Adobe products.",
             "fromDate": "May 2019",
