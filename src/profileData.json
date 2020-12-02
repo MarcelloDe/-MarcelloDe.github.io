@@ -12,7 +12,7 @@
 
      "position": "Data Analyst",
         "organization": "McMaster University, Hamilton, ON.",
-        "aboutWork": "Aiding with the administration of the course evaluation process across all faculties at McMaster University.",
+        "aboutWork": "Supporting the course evaluation process, campus wide, across all faculties of McMaster University.",
         "fromDate": "November 2020",
         "toDate": "Present"
     },
@@ -116,8 +116,8 @@
         
     ],
     "interests": {
-        "paragraphOne": "I am currently learning how to use GIS (Geographic Information System). GIS is exciting because it allows for Python compatability allowing map plotting using packages such as folium and cholera. More exciting is that I'd like to learn how to plug in the geographic metadata from my photographs to match my photos up with their geographic locations from which they were taken. Eventually, I'd like to create a website portfolio of photographs that are linked to the correspinding locations on a map in which the photos were taken.",
-        "paragraphTwo": "Personal projects page and blog COMING SOON!"
+        "paragraphOne": "I am currently learning how web-development and am working on a blog that will contain my personal projects and blog.",
+        "paragraphTwo": "Feel free to reach out to me at anytime if you'd like to connect. Add me on LinkedIn also!"
     }
 
 }
