@@ -1,0 +1,137 @@
+{
+    "landing": {
+        "firstName": "Marcello   ",
+        "lastName": "De Filippis",
+        "phoneNumber": "(416)-988-3973",
+        "bio": "Breaking into the field of Data Science, Analytics, Web Development, and Coding. Living In Hamilton, Ontario.",
+        "email": "defilipm@mcmaster.ca",
+        "linkedin": "https://www.linkedin.com/in/marcellodefilippis/",
+        "github": "https://github.com/MarcelloDe"
+    },
+    "experience": [{
+
+     "position": "Data Analyst",
+        "organization": "McMaster University, Hamilton, ON.",
+        "aboutWork": "Supporting the course evaluation process, campus wide, across all faculties of McMaster University.",
+        "fromDate": "November 2020",
+        "toDate": "August 2021"
+    },
+    {
+        "position": "Administrative Assistant",
+        "organization": "The Career Foundation, Hamilton, ON.",
+        "aboutWork": "A workforce planning initiative funded by Skills Advance Ontario (SAO) pilot project called 'The Cannabis Production Worker Training & Recruitment Program'.",
+        "fromDate": "July 2020",
+        "toDate": "September 2020"
+    },
+    {    
+        "position": "Associate Freelance Photographer",
+            "organization": "Chasing Moments Photography, Hamilton, ON.",
+            "aboutWork": "providing on-site photography coverage of special events. Content creation using social media platforms and Adobe products.",
+            "fromDate": "May 2019",
+            "toDate": "Present"
+        },
+        {
+            "position": "Inventory Clerk (contract)",
+            "organization": "Peel Regional Police, Brampton, ON.",
+            "aboutWork": "Responsible for performing a variety of data entry, clerical and administrative functions for maintanence and management of inventory",
+            "fromDate": "May 2018",
+            "toDate": "August 2018"
+        },
+        {
+            "position": "Customer Service Representative",
+            "organization": "The Bank of Nova Scotia, Milton, ON.",
+            "aboutWork": "Responsible for the day-to-day face-to-face transactions for walk-in customers. Transactions such as  mortgage payments, foreign currency exchange, deposits and withdrawals. Furthermore, as the head teller I performed light accounting procedures  such as the recording and balancing the transfer of funds between vault and tills. ",
+            "fromDate": "June 2017",
+            "toDate": "April 2018"
+        },
+        {
+            "position": "Information Clerk",
+            "organization": "Peel Regional Police, Brampton, ON.",
+            "aboutWork": "Analyzed and organized confidential files to contribute to a department wide process of moving towards an electronic based filing system while coordinating among colleagues with Microsoft SharePoint",
+            "fromDate": "June 2016",
+            "toDate": "September 2016"
+        },
+        {
+            "position": "Sale Representative",
+            "organization": "LCBO, Mississauga, ON.",
+            "aboutWork": "Assisted in shipping and receiving, ordering, and stocking functions with the use of inventory management-based technology. Also, provided  customer service by advising potential clients on which wine to buy based on varietal, price, pairing, and geographic origin. ",
+            "fromDate": "2012",
+            "toDate": "2015"
+        }
+    ],
+    "education": [{
+        "university": "McMaster University",
+        "degree": "Computer Science as a Second Degree",
+        "gpa": "he Honours Computer Science program offers courses designed to develop students into highly knowledgeable and skilled systems analysts, database specialists, software developers, and system administrators. Additionally, it prepares students for an accelerated master's degree. The program is built around three core areas: computing fundamentals, software design, and systems. Students are trained in modern systems-oriented topics such as distributed networks, secure, high-performance, and web-based systems.",
+        "fromDate": "2021",
+        "toDate": "present"
+    },
+    {
+        "university": "Sheridan College",
+        "degree": "Data Science Certificate",
+        "gpa": "Executed the analytics process of data cleaning, processing, predicting, and applying business intelligence practices of visualization and report writing. Applied knowledge of predictive analytics, database management, machine learning, and advanced statistics",
+        "fromDate": "2018",
+        "toDate": "2020"
+    },
+    {
+        "university": "IBM/Coursera Online",
+        "degree": "IBM Data Science Professional Certificate",
+        "gpa": " Certification included completion of nine Courses such as: python for Data Science and AI, Machine Learning, Databases and SQL, as well as a final capstone project",
+        "fromDate": "2020",
+        "toDate": "2020"
+    },
+    {
+        "university": "Mohawk College 'City School'",
+        "degree": "Coding Boot Camp",
+        "gpa": " 12 week intensive bootcamp. I learned about the basics of web development including HTML, CSS, Javascript, jQuery, and SQL.",
+        "fromDate": "September 2019",
+        "toDate": "December 2019"
+    },
+    {
+        "university": "York University",
+        "degree": "Human Rights and Equity Studies",
+        "gpa": "Bachelor’s Degree with Honours whereby I’ve studied and applied: public policy, Charter of Rights and Freedoms, Criminal Code of Canada, as well as the ability to interpret case law and apply the rule of precedence.",
+        "fromDate": "2014",
+        "toDate": "2017"
+    },
+    {
+        "university": "York University",
+        "degree": "Human Resources Management Professional Certificate",
+        "gpa": "Studied and applied the principles of accounting, occupational health and safety management systems, the process of recruitment, labour relations, performance appraisals, human resources planning, and business administration.",
+        "fromDate": "2014",
+        "toDate": "2017"
+    }
+
+],
+    "skills": [{
+            "name": "Over 5 years of administrative experience"
+        },
+        {
+            "name": "r"
+        },
+        {
+            "name": "Database Management using SQL"
+        },
+        {
+            "name": "Python"
+        },
+        {
+            "name": "HTML, CSS, Javascript"
+        },
+        {
+            "name": "IBM Watson"
+        },
+        {
+            "name": "Tableau and Power B.I"
+        },
+        {
+            "name": "Scrum Fundamentals Certified"
+        }
+        
+    ],
+    "interests": {
+        "paragraphOne": "I am currently learning how web-development and am working on a blog that will contain my personal projects and blog.",
+        "paragraphTwo": "Feel free to reach out to me at anytime if you'd like to connect. Add me on LinkedIn also!"
+    }
+
+}
