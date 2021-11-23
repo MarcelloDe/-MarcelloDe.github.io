@@ -18,8 +18,8 @@ class Experience extends Component {
                 <div className="resume-content">
                   <h3 className="mb-0">{exp.position}</h3>
                   <div className="subheading mb-3">{exp.organization}</div>
-                  <p>{exp.aboutWork}</p>
-                </div>
+                  <p>{exp.aboutwork}</p>
+                  </div>
                 <div className="resume-date text-md-right">
                   <span className="text-primary">{exp.fromDate} - {exp.toDate}</span>
                 </div>
