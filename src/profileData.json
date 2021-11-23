@@ -14,7 +14,7 @@
         "organization": "McMaster University, Hamilton, ON.",
         "aboutWork": "Supporting the course evaluation process, campus wide, across all faculties of McMaster University.",
         "fromDate": "November 2020",
-        "toDate": "Present"
+        "toDate": "August 2021"
     },
     {
         "position": "Administrative Assistant",
@@ -60,6 +60,13 @@
         }
     ],
     "education": [{
+        "university": "McMaster University",
+        "degree": "Computer Science as a Second Degree",
+        "gpa": "he Honours Computer Science program offers courses designed to develop students into highly knowledgeable and skilled systems analysts, database specialists, software developers, and system administrators. Additionally, it prepares students for an accelerated master's degree. The program is built around three core areas: computing fundamentals, software design, and systems. Students are trained in modern systems-oriented topics such as distributed networks, secure, high-performance, and web-based systems.",
+        "fromDate": "2021",
+        "toDate": "present"
+    },
+    {
         "university": "Sheridan College",
         "degree": "Data Science Certificate",
         "gpa": "Executed the analytics process of data cleaning, processing, predicting, and applying business intelligence practices of visualization and report writing. Applied knowledge of predictive analytics, database management, machine learning, and advanced statistics",
@@ -72,6 +79,13 @@
         "gpa": " Certification included completion of nine Courses such as: python for Data Science and AI, Machine Learning, Databases and SQL, as well as a final capstone project",
         "fromDate": "2020",
         "toDate": "2020"
+    },
+    {
+        "university": "Mohawk College 'City School'",
+        "degree": "Coding Boot Camp",
+        "gpa": " 12 week intensive bootcamp. I learned about the basics of web development including HTML, CSS, Javascript, jQuery, and SQL.",
+        "fromDate": "September 2019",
+        "toDate": "December 2019"
     },
     {
         "university": "York University",
