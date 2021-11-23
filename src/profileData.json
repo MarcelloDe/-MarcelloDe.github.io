@@ -62,7 +62,7 @@
     "education": [{
         "university": "McMaster University",
         "degree": "Computer Science as a Second Degree",
-        "gpa": "he Honours Computer Science program offers courses designed to develop students into highly knowledgeable and skilled systems analysts, database specialists, software developers, and system administrators. Additionally, it prepares students for an accelerated master's degree. The program is built around three core areas: computing fundamentals, software design, and systems. Students are trained in modern systems-oriented topics such as distributed networks, secure, high-performance, and web-based systems.",
+        "gpa": "The Honours Computer Science program offers courses designed to develop students into highly knowledgeable and skilled systems analysts, database specialists, software developers, and system administrators. Additionally, it prepares students for an accelerated master's degree. The program is built around three core areas: computing fundamentals, software design, and systems. Students are trained in modern systems-oriented topics such as distributed networks, secure, high-performance, and web-based systems.",
         "fromDate": "2021",
         "toDate": "present"
     },
