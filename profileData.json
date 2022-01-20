@@ -10,9 +10,16 @@
     },
     "experience": [{
 
-     "position": "Data Analyst",
+        "position": "Head of Supportive Relationst",
+        "organization": "McMaster University's DeltaHacks Hackathon, Hamilton, ON.",
+        "aboutWork": "Managed a team of three to facilitate and coordinate the recruitment of mentors, judges, workshop hosts, and challenge hosts for a 36-hour hackathon event attended by 600+ participants over the span of 7-months.",
+        "fromDate": "June 2021",
+        "toDate": "January 2022"
+    },
+    {
+        "position": "Data Analyst",
         "organization": "McMaster University, Hamilton, ON.",
-        "aboutWork": "Supporting the course evaluation process, campus wide, across all faculties of McMaster University.",
+        "aboutWork": "Analyzed course evaluation trends among 12 separate departments over a 6-year span and created accompanying graphs and dashboards for each report.",
         "fromDate": "November 2020",
         "toDate": "August 2021"
     },
@@ -60,10 +67,10 @@
         }
     ],
     "education": [{
-        "university": "McMaster University",
-        "degree": "Computer Science as a Second Degree",
-        "gpa": "he Honours Computer Science program offers courses designed to develop students into highly knowledgeable and skilled systems analysts, database specialists, software developers, and system administrators. Additionally, it prepares students for an accelerated master's degree. The program is built around three core areas: computing fundamentals, software design, and systems. Students are trained in modern systems-oriented topics such as distributed networks, secure, high-performance, and web-based systems.",
-        "fromDate": "2021",
+        "university": "Mohawk College",
+        "degree": "Software Development",
+        "gpa": "This hands-on program covers key topics including a variety of programming languages, web application development, mobile application development, systems analysis, database design, quality assurance testing, and technical writing, .",
+        "fromDate": "2022",
         "toDate": "present"
     },
     {
