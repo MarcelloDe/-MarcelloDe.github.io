@@ -4,11 +4,19 @@
         "lastName": "De Filippis",
         "phoneNumber": "(416)-988-3973",
         "bio": "Breaking into the field of Data Science, Analytics, Web Development, and Coding. Living In Hamilton, Ontario.",
-        "email": "defilipm@mcmaster.ca",
+        "email": "marcello.de-filippis@mohawkcollege.ca",
         "linkedin": "https://www.linkedin.com/in/marcellodefilippis/",
         "github": "https://github.com/MarcelloDe"
     },
     "experience": [{
+
+        "position": "Data Analyst",
+        "organization": " Ontario Ministry of Agriculture, Food, and Rural Affairs ",
+        "aboutWork": "Automated processes using VBA Macros within Microsoft Excel for a dataset with over a thousand records of data therefore shaving off time spent on manual processes and providing greater efficiency. .",
+        "fromDate": "April 2022",
+        "toDate": "August 2022"
+    },
+    {
 
         "position": "Head of Supportive Relations",
         "organization": " DeltaHacks",
